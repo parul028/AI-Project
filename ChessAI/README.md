@@ -1,7 +1,6 @@
 # Chess AI
 Basic Chess AI written in Python 3. 
-
-Uses the Alpha-Beta algorithm to search for the best move. 
+A simple Chess Game using Python3 and the MiniMax Algorithm and Optimize it using the Alpha-Beta Pruning.
 
 ## Getting started
 Download the repository and install the numpy dependency:
